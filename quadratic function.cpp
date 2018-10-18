@@ -14,11 +14,11 @@ int main()
 
   if(check>=0)
   	{
-    	cout<<"a= "<<a<<"\n";
-      cout<<"b= "<<b<<"\n";
-      cout<<"c= "<<c<<"\n";
-    	cout<<"The answer is: "<<quad1<<"\n";
-      cout<<"Or "<<quad2<<"\n";
+    cout<<"a= "<<a<<"\n";
+    cout<<"b= "<<b<<"\n";
+    cout<<"c= "<<c<<"\n";
+    cout<<"The answer is: "<<quad1<<"\n";
+    out<<"Or "<<quad2<<"\n";
 
   	}
 
